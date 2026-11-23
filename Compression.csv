@@ -1,0 +1,146 @@
+Composition,phase,processing method,temperature,yield,fracture strain,fracture strain quantifier,doi,year,external_test,hold_out,Survivor_CVRSA
+Zr333Ti333(NbV)166,BCC,vacuum arc melting,298.15,888.6,50.0,>,10.1016/j.matchar.2023.112956,2023,False,True,
+Zr53Ta37Ti53(NbMo)53,BCC+BCC,high-vacuum non-self-consumption electric arc furnace,298.15,1349.0,34.8,,10.1016/j.jallcom.2023.170739,2023,False,False,True
+Zr69Ta232Nb232(MoW)232,BCC,vacuum arc melting,298.15,1448.0,9.9,,10.1016/j.msea.2022.142701,2022,False,False,True
+Zr8Ta81Nb81(MoW)81,BCC,vacuum arc melting,298.15,1223.0,6.4,,10.1016/j.msea.2022.142701,2022,False,False,True
+TaNbMoW,BCC,vacuum arc melting,298.15,1070.0,1.5,,10.1016/j.msea.2022.142701,2022,False,False,True
+ZrTaNbMoW,BCC+BCC,vacuum arc melting,298.15,1618.0,20.0,,10.1016/j.msea.2022.142701,2022,False,True,
+ZrTa2Nb2(MoW)2,BCC+BCC,vacuum arc melting,298.15,1575.0,12.6,,10.1016/j.msea.2022.142701,2022,False,False,True
+HfZrScTaMo,BCC,vacuum arc melting,298.15,1778.0,27.0,,10.1016/j.ijrmhm.2021.105568,2021,False,False,True
+Ti104Nb104Al83(VCr)104,BCC,vacuum arc melting,298.15,1322.0,20.3,,10.1016/j.ijrmhm.2022.105784,2022,False,False,True
+Ti2Nb2Al(VCr)2,BCC,vacuum arc melting,298.15,1438.0,25.5,,10.1016/j.ijrmhm.2022.105784,2022,False,True,
+Zr250Ti375Nb125Al62V187,BCC,vacuum arc melting,298.15,872.0,50.0,>,10.1016/j.jmrt.2023.03.103,2023,False,False,True
+Zr285Ti428Nb142(AlV)71,BCC,vacuum arc melting,298.15,790.0,50.0,>,10.1016/j.jmrt.2023.03.103,2023,False,False,True
+Zr266Ti400Nb133Al66V133,BCC,vacuum arc melting,298.15,898.0,50.0,>,10.1016/j.jmrt.2023.03.103,2023,False,False,True
+HfTiNbV,BCC,vacuum arc melting,298.15,958.0,50.0,>,10.1016/j.jallcom.2022.166986,2022,False,False,True
+Hf190Zr190Ta190Ti190Nb190W47,BCC,arc melting,298.15,1135.0,50.0,>,10.1016/j.jallcom.2022.165187,2022,False,False,True
+HfZrTaTiNb,BCC,arc melting,298.15,1064.0,50.0,>,10.1016/j.jallcom.2022.165187,2022,False,False,True
+HfZrTaTiNbW,BCC,arc melting,298.15,1726.0,20.7,,10.1016/j.jallcom.2022.165187,2022,False,True,
+Ta2TiNb2(MoW)2,BCC,vacuum arc melting,298.15,1211.0,5.9,,10.1016/j.msea.2017.12.004,2018,False,False,True
+Ta210Ti157Nb210(MoW)210,BCC,vacuum arc melting,298.15,1304.0,8.4,,10.1016/j.msea.2017.12.004,2018,False,False,True
+TaNbMoW,BCC,vacuum arc melting,298.15,996.0,1.9,,10.1016/j.msea.2017.12.004,2018,False,False,True
+Ta235Ti58Nb235(MoW)235,BCC,vacuum arc melting,298.15,1109.0,2.5,,10.1016/j.msea.2017.12.004,2018,False,False,True
+TaTiNbMoW,BCC,vacuum arc melting,298.15,1455.0,11.5,,10.1016/j.msea.2017.12.004,2018,False,False,True
+TaTiVW,BCC,arc melting,298.15,1405.0,19.4,,10.1016/j.scriptamat.2021.113839,2021,False,False,True
+TaTiVCrW,BCC,arc melting,298.15,1588.0,23.4,,10.1016/j.scriptamat.2021.113839,2021,False,True,
+Zr294Ti294Nb294V88Mo29,BCC,arc melting,298.15,932.0,45.0,,10.1016/j.matdes.2015.06.072,2015,False,True,
+Zr232Ti232Nb232V232Mo69,BCC,arc melting,298.15,1289.0,42.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr263Ti263Nb263V78Mo131,BCC,arc melting,298.15,1301.0,43.0,,10.1016/j.matdes.2015.06.072,2015,False,True,
+Zr166Ti166Nb166V166Mo333,BCC,arc melting,298.15,1765.0,12.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr232Ti232Nb232V69Mo232,BCC,arc melting,298.15,1455.0,25.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr10Ti10Nb10V3Mo7,BCC,arc melting,298.15,1436.0,26.6,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr181Ti181Nb181V181Mo272,BCC+BCC,arc melting,298.15,1603.0,20.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+ZrTiNbVMo,BCC,arc melting,298.15,1779.0,32.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr175Ti175Nb175V175Mo298,BCC+BCC,arc melting,298.15,1645.0,15.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr2Ti2Nb2V2Mo,BCC,arc melting,298.15,1473.0,32.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+ZrTiNbV,BCC,arc melting,298.15,1104.0,50.0,>,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr217Ti217Nb217V65Mo282,BCC,arc melting,298.15,1603.0,20.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr104Ti104Nb104V31Mo156,BCC,arc melting,298.15,1576.0,8.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr188Ti188Nb188V188Mo245,BCC,arc melting,298.15,1496.0,30.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr53Ti53Nb53V53Mo37,BCC,arc melting,298.15,1706.0,32.0,,10.1016/j.matdes.2015.06.072,2015,False,False,True
+Zr101Ti101Nb101V30,BCC,arc melting,298.15,866.0,45.0,,10.1016/j.matdes.2015.06.072,2015,False,True,
+Ti380Nb380Al47Mo190,BCC,arc melting,298.15,1002.0,25.0,,10.1016/j.msea.2022.143072,2022,False,False,True
+ZrTiNbMo,BCC,vacuum arc melting,298.15,1462.0,24.6,,10.1016/j.jallcom.2023.172855,2024,False,False,True
+ZrTiNbVMo,BCC,vacuum arc melting,298.15,1413.0,28.7,,10.1016/j.jallcom.2023.172855,2024,False,False,True
+TaNbMoW,BCC,vacuum arc melting,298.15,1058.0,6.0,,10.1016/j.ijrmhm.2020.105370,2020,False,False,True
+Ta349Nb157Mo350W143,BCC,vacuum arc melting,298.15,919.0,2.2,,10.1016/j.ijrmhm.2020.105370,2020,False,False,True
+Ta7Nb7MoW5,BCC,vacuum arc melting,298.15,705.0,1.2,,10.1016/j.ijrmhm.2020.105370,2020,False,False,True
+Ta7Nb5Mo7W,BCC,vacuum arc melting,298.15,777.0,1.2,,10.1016/j.ijrmhm.2020.105370,2020,False,False,True
+TaNb7Mo5W7,BCC,vacuum arc melting,298.15,940.0,6.3,,10.1016/j.ijrmhm.2020.105370,2020,False,False,True
+Zr3Ti4Nb3,BCC,vacuum arc melting,298.15,675.0,50.0,>,10.1016/j.mtla.2021.101057,2021,False,False,True
+TaNbVMo,BCC,arc melting,298.15,1256.0,26.0,,10.1016/j.scriptamat.2020.09.027,2021,False,False,True
+Ta5Ti3V5Cr2Mo5,BCC,arc melting,298.15,1575.0,14.0,,10.1016/j.jallcom.2022.167386,2023,False,False,True
+Ta142Nb285(VMo)285,BCC,vacuum arc melting,298.15,1505.0,5.8,,10.1016/j.msea.2022.143554,2022,False,False,True
+TaNbVMo,BCC,vacuum arc melting,298.15,1344.0,9.5,,10.1016/j.msea.2022.143554,2022,False,False,True
+NbVMo,BCC,vacuum arc melting,298.15,1550.0,3.7,,10.1016/j.msea.2022.143554,2022,False,False,True
+Ta30Nb101(VMo)101,BCC,vacuum arc melting,298.15,1520.0,6.6,,10.1016/j.msea.2022.143554,2022,False,False,True
+Ta7Nb10(VMo)10,BCC,vacuum arc melting,298.15,1451.0,8.2,,10.1016/j.msea.2022.143554,2022,False,False,True
+Hf20Ta10Ti30Nb20V10Mo7W3,BCC,vacuum arc melting,298.15,1225.0,45.0,,10.1016/j.jallcom.2023.171571,2023,False,True,
+Hf6Ta5Ti3Nb5Mo,BCC,vacuum arc melting,298.15,964.0,50.0,>,10.1016/j.msea.2022.144035,2022,False,False,False
+HfZrTaTi2Nb2VMoW,BCC+BCC,vacuum arc melting,298.15,1700.0,30.0,,10.1002/adem.202100225,2021,False,False,True
+Zr230Ti307Nb153(VMo)153,BCC+BCC,vacuum arc melting,298.15,1412.0,29.5,,10.1016/j.ijrmhm.2021.105762,2022,False,True,
+Zr3Ti2NbVMo,BCC,vacuum arc melting,298.15,1287.0,29.7,,10.1016/j.ijrmhm.2021.105762,2022,False,False,True
+Zr166Ti333Nb166(VMo)166,BCC+BCC,vacuum arc melting,298.15,1294.0,27.0,,10.1016/j.ijrmhm.2021.105762,2022,False,False,True
+Zr285Ti285Nb142(VMo)142,BCC+BCC,vacuum arc melting,298.15,1421.0,31.6,,10.1016/j.ijrmhm.2021.105762,2022,False,False,True
+HfTaTiNbV,BCC,vacuum arc remelting,298.15,1350.0,45.0,,10.1016/j.jmst.2020.10.073,2021,False,False,True
+HfZrTaTiNb,BCC,vacuum arc remelting,298.15,900.0,45.0,,10.1016/j.jmst.2020.10.073,2021,False,False,True
+Ta178Ti178Nb178Al107(VMo)178,BCC+BCC,vacuum arc melting,298.15,1352.9,21.0,,10.1016/j.msea.2020.139275,2020,False,False,True
+Ta5Ti5Nb5Al2(VMo)5,BCC+BCC,vacuum arc melting,298.15,1332.2,13.0,,10.1016/j.msea.2020.139275,2020,False,False,True
+TaTiNbAlVMo,BCC+BCC,vacuum arc melting,298.15,1391.2,9.0,,10.1016/j.msea.2020.139275,2020,False,False,True
+Ta96Ti96Nb96Al19(VMo)96,BCC+BCC,vacuum arc melting,298.15,1292.0,16.0,,10.1016/j.msea.2020.139275,2020,False,False,True
+TaTiNbVMo,BCC+BCC,vacuum arc melting,298.15,1227.9,30.0,,10.1016/j.msea.2020.139275,2020,False,False,True
+TaTiNbV,BCC,vacuum arc melting,298.15,704.0,50.0,>,10.1016/j.jallcom.2021.163517,2022,True,False,
+ZrTaNbMoW,BCC+BCC,arc melting,298.15,1589.0,15.8,,10.1016/j.msea.2021.142061,2021,False,True,
+TiVFeCoNi,BCC,vacuum arc melting,298.15,2730.0,21.3,,10.1016/j.ijrmhm.2020.105416,2021,False,False,True
+ZrTaNbMoW,BCC+BCC,arc melting,298.15,1611.0,12.43,,10.1016/j.intermet.2024.108213,2024,False,True,
+TiNb2AlV,BCC,arc melting,298.15,1043.0,33.0,,10.1016/j.matlet.2020.129255,2021,False,False,True
+Ta283Nb283Mo150W283,BCC,arc melting,298.15,1092.0,6.5,,10.1016/j.jallcom.2021.159740,2021,False,False,True
+Ta158Nb158Mo25W158,BCC,arc melting,298.15,1210.0,8.3,,10.1016/j.jallcom.2021.159740,2021,False,False,True
+TaNbW,BCC,arc melting,298.15,1298.0,16.2,,10.1016/j.jallcom.2021.159740,2021,False,False,True
+TaNbMoW,BCC,arc melting,298.15,1158.0,7.7,,10.1016/j.jallcom.2021.159740,2021,False,False,True
+Ta277Nb277Mo277W166,BCC,vacuum arc melting,298.15,1683.0,9.3,,10.1016/j.jallcom.2024.174390,2024,False,False,True
+Ta263Nb263Mo263W210,BCC,vacuum arc melting,298.15,1699.0,9.0,,10.1016/j.jallcom.2024.174390,2024,False,False,True
+Ta156Nb156Mo156W31,BCC,vacuum arc melting,298.15,1621.0,10.6,,10.1016/j.jallcom.2024.174390,2024,False,False,True
+TaNbMoW,BCC,vacuum arc melting,298.15,1732.0,9.4,,10.1016/j.jallcom.2024.174390,2024,False,False,True
+Ta98Nb98Mo98W39,BCC,vacuum arc melting,298.15,1662.0,10.8,,10.1016/j.jallcom.2024.174390,2024,False,False,True
+HfZrTaTiNb,BCC,arc melting,298.15,926.0,33.0,,10.1007/s11837-020-04557-y,2021,False,False,True
+HfZrTaTiNb,BCC,vacuum arc melting,298.15,929.0,37.0,,10.1007/s10853-012-6260-2,2012,False,False,True
+NbVCrMo,BCC,arc melting,298.15,1447.0,8.6,,10.1038/s41467-021-25807-w,2021,False,False,True
+TaTiNbV,BCC,arc melting,298.15,1239.0,35.0,>,10.1038/s41467-021-25807-w,2021,True,False,
+Ti153Al230Cr153Fe153(CoNi)153,BCC+BCC,CAST,298.15,,11.58646617,,10.1016/j.msea.2008.12.053,2009,False,False,True
+Ti142Al285Cr142Fe142(CoNi)142,BCC+BCC,CAST,298.15,,6.09574468,,10.1016/j.msea.2008.12.053,2009,False,False,True
+AlCrFeCoNi,BCC,CAST,298.15,1251.0,34.08913043,,10.1016/j.msea.2008.01.064,2008,False,False,False
+AlCrFeCoNi,BCC,CAST,298.15,1138.0,11.61847826,,10.1016/j.jallcom.2010.10.047,2011,False,False,True
+Al196Cr196Fe196Co196Ni196Mo19,BCC,CAST,298.15,1804.0,10.21276596,,10.1016/j.msea.2010.07.028,2010,False,False,True
+Nb19Al196Cr196Fe196(CoNi)196,BCC,CAST,298.15,1641.0,18.80494505,,10.1016/j.msea.2011.10.110,2012,False,False,True
+AlCrFeCoNi,BCC,CAST,298.15,1373.0,26.91902174,,10.1016/j.msea.2011.10.110,2012,False,False,True
+TiAlCrFeCoNi,BCC+BCC,CAST,298.15,1860.0,10.7,,10.1063/1.2734517,2007,False,False,True
+Ti90Al181Cr181Fe181(CoNi)181,BCC+BCC,CAST,298.15,2260.0,24.4,,10.1063/1.2734517,2007,False,False,True
+TiAlCrCoCuNi,BCC,CAST,298.15,,12.15277778,,10.1016/j.matdes.2009.09.016,2010,False,False,True
+Zr260Ta159Ti280Nb199Al59V40,BCC,arc melting + HIP + anneal,298.15,1965.0,5.0,,10.1007/s11837-014-1066-0,2014,False,False,False
+Zr99Ta99Ti300(Nb3Al2)100,BCC,arc melting + HIP + anneal,298.15,1280.0,4.0,,10.1007/s11837-014-1066-0,2014,False,False,False
+Hf47Zr47Ta47Ti47Nb47Al14,BCC,CAST,298.15,1188.0,50.0,>,10.1016/j.jallcom.2014.11.064,2015,False,False,True
+Hf181Zr181Ta181Ti181Nb181Al90,BCC,CAST,298.15,1302.0,46.0,,10.1016/j.jallcom.2014.11.064,2015,False,False,True
+HfZrTaTiNb,BCC,CAST,298.15,1073.0,50.0,>,10.1016/j.jallcom.2014.11.064,2015,False,False,True
+Ti235Nb235Al58(VMo)235,BCC,CAST,298.15,1250.0,13.0,,10.3390/e16020870,2014,False,False,True
+Ti2Nb2Al(VMo)2,BCC,CAST,298.15,1625.0,11.0,,10.3390/e16020870,2014,False,False,True
+Ti210Nb210Al157(VMo)210,BCC,CAST,298.15,1260.0,8.0,,10.3390/e16020870,2014,False,False,True
+TiNbAlVMo,BCC,CAST,298.15,1375.0,3.0,,10.3390/e16020870,2014,False,False,True
+TiNbVMo,BCC,CAST,298.15,1200.0,26.0,,10.3390/e16020870,2014,False,False,True
+TiNbAlV,BCC,CAST,298.15,1020.0,6.26730769,,10.1016/j.matlet.2014.11.162,2015,False,False,False
+ZrTiNbV2,BCC,arc melting + HIP + anneal,298.15,918.0,50.0,>,10.1016/j.msea.2012.12.018,2013,False,True,
+ZrTiNbV,BCC,arc melting + HIP + anneal,298.15,1105.0,50.0,>,10.1016/j.msea.2012.12.018,2013,False,False,True
+Hf190Zr190Ta190Ti190Nb190Mo47,BCC,CAST,298.15,1112.0,50.0,>,10.1016/j.matlet.2016.03.133,2016,False,False,True
+HfZrTaTiNb,BCC,CAST,298.15,1015.0,50.0,>,10.1016/j.matlet.2016.03.133,2016,False,False,True
+HfZrTaTiNbMo,BCC,CAST,298.15,1512.0,12.0,,10.1016/j.intermet.2015.03.013,2015,False,False,True
+HfZrTaTiMo,BCC,CAST,298.15,1600.0,4.0,,10.1016/j.intermet.2015.03.013,2015,False,False,True
+HfZrTiNbMo,BCC,CAST,298.15,1575.0,9.0,,10.1016/j.matdes.2015.05.019,2015,False,False,True
+HfZrTiNbMo,BCC,CAST,298.15,1719.0,10.0,,10.1016/j.matdes.2015.05.019,2015,False,False,True
+TaNbVMo,BCC,CAST,298.15,1525.0,21.0,,10.3390/e18050189,2016,False,False,True
+TaNbVMoW,BCC,arc melting + HIP + anneal,298.15,1246.0,2.0,,10.1016/j.intermet.2011.01.004,2011,True,False,
+TaNbMoW,BCC,arc melting + HIP + anneal,298.15,1058.0,2.0,,10.1016/j.intermet.2011.01.004,2011,False,False,True
+Zr235Ti235Nb235V58Mo235,BCC,CAST,298.15,1776.0,30.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+Zr2Ti2Nb2VMo2,BCC,CAST,298.15,1647.0,28.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+Zr210Ti210Nb210V157Mo210,BCC,CAST,298.15,1708.0,29.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+ZrTiNbVMo,BCC,CAST,298.15,1786.0,26.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+Zr181Ti181Nb181V272Mo181,BCC,CAST,298.15,1735.0,20.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+Zr166Ti166Nb166V333Mo166,BCC,CAST,298.15,1538.0,23.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+Zr71Ti71Nb71V214Mo71,BCC,CAST,298.15,1418.0,24.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+ZrTiNbMo,BCC,CAST,298.15,1592.0,34.0,,10.1007/s11837-012-0366-5,2012,False,False,True
+TiMnAl2VCrFeCoCuNi,BCC,CAST,298.15,1465.0,2.0,,10.1016/j.msea.2006.11.049,2007,False,False,True
+HfZrTiNbV,BCC,CAST,298.15,1120.0,30.0,,10.1016/j.ijrmhm.2014.07.009,2014,False,False,False
+HfZrTaNb,BCC,CAST,298.15,1315.0,21.6,,10.1016/j.actamat.2016.01.018,2016,False,False,False
+TaTiNbVW,BCC,CAST,298.15,1420.0,20.0,,10.1016/j.msea.2016.07.102,2016,False,False,True
+TaNbVW,BCC,CAST,298.15,1530.0,12.0,,10.1016/j.msea.2016.07.102,2016,False,False,True
+Nb285Re142(MoW)285,BCC,CAST,298.15,896.0,10.4,,10.1016/j.jallcom.2018.11.111,2019,False,False,True
+ZrTiNb,BCC,CAST,298.15,1223.0,50.0,>,10.1007/s12598-019-01310-6,2019,False,False,True
+HfZrTiNb,BCC,CAST,298.15,1000.0,52.0,>,10.1007/s12598-019-01310-6,2019,False,False,True
+HfZr2(Ti2V)2,BCC,CAST,298.15,1160.0,50.0,>,10.1007/s40195-019-00921-3,2019,False,False,True
+Hf105Zr210Ti421(Nb26V105)2,BCC,CAST,298.15,1115.0,50.0,>,10.1007/s40195-019-00921-3,2019,False,False,True
+HfZr2Ti4NbV2,BCC,CAST,298.15,1065.0,50.0,>,10.1007/s40195-019-00921-3,2019,False,True,
+Hf95Zr190Ti380(Nb71V95)2,BCC,CAST,298.15,1025.0,50.0,>,10.1007/s40195-019-00921-3,2019,False,False,True
+Hf90Zr181Ti363(NbV)181,BCC,CAST,298.15,980.0,50.0,>,10.1007/s40195-019-00921-3,2019,False,False,True
+Ti39Cr98(FeNi)98,BCC,CAST,298.15,2475.41,6.5,,10.1557/jmr.2019.40,2019,False,False,True
+HfZrTiNbMo,BCC,CAST,298.15,1351.0,20.0,,10.3390/e21010015,2018,False,False,True
+HfZrTaNbMo,BCC,CAST,298.15,1524.0,16.0,,10.3390/e21010015,2018,False,False,True
+HfTaTiNbMo,BCC,CAST,298.15,1369.0,27.0,,10.3390/e21010015,2018,False,False,True

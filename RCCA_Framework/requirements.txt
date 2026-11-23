@@ -1,0 +1,7 @@
+# tested with Python 3.11.3
+numpy>=1.24        # tested 1.26.4
+pandas>=2.0        # tested 2.0.1
+scipy>=1.10        # tested 1.17.1
+scikit-learn==1.5.0   # GradientBoostingRegressor; other versions may change the models slightly
+joblib>=1.3        # tested 1.3.2
+pytest             # for the tests only

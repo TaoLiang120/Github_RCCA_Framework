@@ -71,3 +71,7 @@ The 35 compositions that meet all six criteria of the paper: ΔG^bcc at 1000 K b
 - The fracture strain is measured in compression. It is a preliminary screen for room-temperature ductility, not a tensile ductility.
 - The phase metrics compare only the BCC and HCP solid solutions. Laves, B2 and other intermetallic phases are not included, so a composition that passes the phase screens may not form a single BCC phase.
 - Predictions far from the curated compositions are less reliable. At 295 K, about 1% of the compositions (very high melting points) have T/Tm below the range of the training data; the model then returns the value at the edge of that range.
+
+## License
+
+The code and data in this repository are released under the MIT License (see `LICENSE`).

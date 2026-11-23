@@ -61,3 +61,7 @@ The fracture-strain model is reproduced exactly. For the yield strength, the pap
 - **Limitations.**
   - The fracture strain is measured in compression; it is a preliminary screen, not a tensile ductility.
   - The phase metrics compare only the BCC and HCP solid solutions; Laves and other intermetallic phases are not included.
+
+## License
+
+MIT License (see `../LICENSE`).
